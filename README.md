@@ -6,6 +6,12 @@ Bước đầu học toán bằng phần mềm nhỏ gọn, dễ sử dụng c�
 ```
 nt41528@gmail.com
 ```
+
+## Cách cài đặt phần mềm
+1. Các bạn download setup ở bên trên
+2. Các bạn cài đặt thêm git ở đây: 
+    * [Download Git](https://git-scm.com/download/win)
+
 ## Các bản cập nhật:
 * Version 1.0.0
 * Version 1.0.1
